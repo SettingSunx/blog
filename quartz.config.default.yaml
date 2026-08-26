@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: 我的个人博客
+  pageTitleSuffix: " · 个人博客"
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  analytics: null
+  locale: zh-CN
+  baseUrl: localhost:8080
   ignorePatterns:
     - private
     - templates
@@ -203,8 +202,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        首页: /
+        博客: /blog
+        关于: /about
     layout:
       position: footer
       priority: 50
