@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: localhost:8080
+  baseUrl: www.setsan.top
   ignorePatterns:
     - private
     - templates
