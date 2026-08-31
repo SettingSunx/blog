@@ -1,6 +1,6 @@
 ```yaml
 ---
-title: js面试题01_自定义unshift
+title: js面试题01自定义unshift
 date: 2026-08-26
 tags:
   - 技术
