@@ -7,5 +7,6 @@ description: 我的文章与学习笔记
 
 这里收录我的技术文章、学习笔记与生活思考。
 
-- [[hello-world|欢迎来到我的博客]]
-- [[markdown-guide|如何在这里发布 Markdown 文章]]
+- [js面试题](blog/js)
+- [前端学习思考笔记](blog/front)
+
